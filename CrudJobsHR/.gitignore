@@ -1,0 +1,15 @@
+# Ignorar archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.vsp
+*.dbmdl
+*.log
+*.vsidx
+
+# Ignorar carpetas de compilación
+bin/
+obj/
+
+# Otros
+*.log
